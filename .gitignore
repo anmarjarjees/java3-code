@@ -1,3 +1,9 @@
+# My Settings (Anmar):
+# 1. Removing the "bin" folder: it will be generated when you run your applications
+bin/
+# 2. Removing the .vscode: it blongs to VScode not our code
+.vscode/
+
 # Compiled class file
 *.class
 
