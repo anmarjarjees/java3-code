@@ -7,6 +7,7 @@ public class Spaceship {
     private int shieldStrength;
 
     private String name;
+    
     /*
      * NOTE:
      * Adding the constructor with no parameter is needed

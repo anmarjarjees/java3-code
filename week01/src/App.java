@@ -12,7 +12,7 @@ public class App {
          *  Parameters and Arguments
          */
 
-        // the value 1.5 is the argument
+        // the value 1.5f is the argument to be assigned to a parameter
         Spaceship.increaseDifficulty(1.5f);
 
         // Spaceship ship2 = new Spaceship("Tiger");

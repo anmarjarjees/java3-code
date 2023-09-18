@@ -3,6 +3,8 @@
 bin/
 # 2. Removing the .vscode: it blongs to VScode not our code
 .vscode/
+# 3. Removing the "lib" folder: empty, no libraries
+lib/
 
 # Compiled class file
 *.class
