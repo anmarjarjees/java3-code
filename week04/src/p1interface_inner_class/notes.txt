@@ -1,0 +1,8 @@
+Here is the sequence/order of the .java files for studying/reviewing:
+
+1. Vehicle.java
+2. Car.java
+3. App.java
+4. Payment.java
+5. MainPayment.java
+6. Again => App.java

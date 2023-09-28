@@ -10,7 +10,17 @@ Java 3 Lectures:  In-Class Weekly Code
     - Just contains partial code, please refer to my full OOP and UML Review Slides PDF file
 
 - Week03:
-    - Exceptions
+    - Packages Quick Review
+    - Exceptions Quick Review (Only the first 3 class files)
+        - Full code and details ["Exceptions"](https://github.com/anmarjarjees/java-extra/tree/main/src/p01_exceptions)
+
+- Week04:
+    - Interface Quick Review and Inner Classes
+        - Full code and details ["Inner Classes"](https://github.com/anmarjarjees/java-extra/tree/main/src/p02_anonymous_inner_classes)
+        - Full code and details ["Swing GUI Basic"](https://github.com/anmarjarjees/java-ui-swing/tree/main/src/p1gui_basics)
+    - GUI Swing Basic: Work with dialog boxes
+        - Full code and details ["Interfaces"](https://github.com/anmarjarjees/java-oop-uml/tree/main/src/p09_interface)
+
 
 # Main Resources:
 Java Essentials:
